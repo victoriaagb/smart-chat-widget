@@ -1,11 +1,12 @@
 .chatform{
     width: 500px;
     margin: 1em;
-    position: absolute;
+    position: fixed;
     border: 1px solid lightgrey;
     background: rgb(237, 239, 241);
     box-shadow: 2px 3px 5px lightgrey;
     bottom: 0;
     right: 0;
     border-radius: 5px;
+    z-index: 500000
   }

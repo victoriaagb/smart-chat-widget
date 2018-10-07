@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 import { Message } from './models/message';
 
 @Component({
-  selector: 'app-root',
+  selector: 'smart-chat-widget',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.scss']
 })

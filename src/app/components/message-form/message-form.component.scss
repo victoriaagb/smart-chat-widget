@@ -17,8 +17,16 @@
     }
     .sendbtn {
         width: 20%;
+        background: #c4beac; 
+        padding: .2em 0em;
         float: left;
-        border-radius: 0;
+        border: 1px solid #ced4da;
+        border-radius: 10px;
         text-transform: uppercase;
+    }
+    .arrow-right {
+      border-top: 10px solid transparent;
+      border-bottom: 10px solid transparent;
+      border-left: 10px solid green;
     }
 }
