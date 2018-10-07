@@ -1,0 +1,24 @@
+.chatcontrol {
+    float: left;
+    width: 100%;
+    padding-bottom: 1em;
+    padding-top: 1em;
+    border-top: 1px solid lightgrey;
+    background: #ea720f;
+    .chatinput {
+        width: 50%;
+        float: left;
+        border-radius: 1em;
+        border: 1px solid #ced4da;
+        transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+        padding: .25em;
+        margin-left: 2em;
+        margin-right: 1em;
+    }
+    .sendbtn {
+        width: 20%;
+        float: left;
+        border-radius: 0;
+        text-transform: uppercase;
+    }
+}
