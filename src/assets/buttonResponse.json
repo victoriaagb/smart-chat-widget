@@ -1,0 +1,10 @@
+{
+  "response_type": "BUTTON",
+  "payload": {
+    "text": "Hey whats up",
+    "buttons": [
+      { "title": "", "type": "", "url": "", "payload": "" },
+      { "title": "", "type": "", "url": "", "payload": "" }
+    ]
+  }
+}

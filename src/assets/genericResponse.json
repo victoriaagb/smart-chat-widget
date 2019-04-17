@@ -1,0 +1,16 @@
+{
+  "response_type": "GENERIC",
+  "payload": {
+    "elements": [
+      {
+        "image_url": "",
+        "title": "",
+        "subtitle": "",
+        "buttons": [
+          { "title": "", "type": "", "url": "", "payload": "" },
+          { "title": "", "type": "", "url": "", "payload": "" }
+        ]
+      }
+    ]
+  }
+}
